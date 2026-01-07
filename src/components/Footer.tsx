@@ -35,18 +35,17 @@ export default function Footer() {
             <div className="inline-block bg-white px-4 py-2 rounded-lg">
               <div className="flex flex-col leading-tight">
                 <span className="text-2xl font-bold bg-gradient-to-r from-pink-600 to-green-600 bg-clip-text text-transparent">
-                  সবাই
+                  Core
                 </span>
                 <span className="text-xl font-bold bg-gradient-to-r from-pink-600 to-green-600 bg-clip-text text-transparent -mt-1">
-                  মিঠাই
+                  Commerce
                 </span>
               </div>
             </div>
 
             {/* Description */}
             <p className="text-gray-300 text-sm leading-relaxed">
-              সবাই মিঠাই রেলা গুণগত ই-কমার্স #ব্যাটফর্ম, যার মূল লক্ষ্য রয়েলা রাজিতর মুদ্র নিরাপদ শামাবাইরি লৌকে দেয়া।
-            </p>
+SM TechSpire – IT CoreCommerce: Empowering Brands. Simplifying Sales. "Building the next generation of smart web solutions for global businesses. Your success is our core mission.            </p>
 
             {/* Social Media Icons */}
             <div className="flex gap-3">

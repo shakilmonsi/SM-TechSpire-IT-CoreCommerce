@@ -90,10 +90,10 @@ export default function Header() {
               <a href="/" className="flex-shrink-0">
                 <div className="flex flex-col leading-tight">
                   <span className="text-2xl sm:text-3xl font-bold bg-gradient-to-r from-pink-600 to-green-600 bg-clip-text text-transparent whitespace-nowrap">
-                    সবাই
+                    Core
                   </span>
                   <span className="text-xl sm:text-2xl font-bold bg-gradient-to-r from-pink-600 to-green-600 bg-clip-text text-transparent whitespace-nowrap -mt-1">
-                    মিঠাই
+                    Commerce
                   </span>
                 </div>
               </a>
